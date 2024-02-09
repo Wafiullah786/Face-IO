@@ -1,6 +1,6 @@
 # Face-IO
+![1](https://github.com/Wafiullah786/Face-IO/assets/130735471/a00aea4b-49f5-4786-b205-4672e3fdca73)
 
-<img src = "1.png" width ="250" />
 
 
 INTRODUCTION
