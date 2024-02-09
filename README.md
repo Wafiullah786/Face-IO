@@ -12,3 +12,13 @@ KEY FEATURES:
 3. Real time attendance sorting in the database.
 
 TECHNOLOGIES & TOOLS USED
+
+1. Deep Learning
+2. Machine Learning
+3. OpenCV
+4. SQL Database
+5. Python
+
+SCREENSHOTS
+
+<img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" /> <img src = "6.png" width ="250" />
